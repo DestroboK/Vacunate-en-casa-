@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\bin\Debug\netstandard2.1\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\wwwroot\" />
 </StaticWebAssets>

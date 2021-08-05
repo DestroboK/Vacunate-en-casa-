@@ -2419,19 +2419,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kelvin\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kelvin\\Downloads\\Tarea9 Form-Vacunate\\Client\\Tarea9 Form-Vacunate.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj",
       "projectName": "Tarea9_Form-Vacunate.Client",
-      "projectPath": "C:\\Users\\Kelvin\\Downloads\\Tarea9 Form-Vacunate\\Client\\Tarea9 Form-Vacunate.Client.csproj",
-      "packagesPath": "C:\\Users\\Kelvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kelvin\\Downloads\\Tarea9 Form-Vacunate\\Client\\obj\\",
+      "projectPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Kelvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2443,9 +2448,10 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\Kelvin\\Downloads\\Tarea9 Form-Vacunate\\Shared\\Tarea9 Form-Vacunate.Shared.csproj": {
-              "projectPath": "C:\\Users\\Kelvin\\Downloads\\Tarea9 Form-Vacunate\\Shared\\Tarea9 Form-Vacunate.Shared.csproj"
+            "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj": {
+              "projectPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj"
             }
           }
         }
@@ -2458,6 +2464,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
@@ -2513,7 +2520,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea9 Form-Vacunate.Server", "Server\Tarea9 Form-Vacunate.Server.csproj", "{F76FF3A6-8D96-4D29-A0D9-2AF3240DDBB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarea9 Form-Vacunate.Server", "Server\Tarea9 Form-Vacunate.Server.csproj", "{F76FF3A6-8D96-4D29-A0D9-2AF3240DDBB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea9 Form-Vacunate.Client", "Client\Tarea9 Form-Vacunate.Client.csproj", "{02070D27-DA17-4C7D-8228-A1A4EEB42699}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarea9 Form-Vacunate.Client", "Client\Tarea9 Form-Vacunate.Client.csproj", "{02070D27-DA17-4C7D-8228-A1A4EEB42699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea9 Form-Vacunate.Shared", "Shared\Tarea9 Form-Vacunate.Shared.csproj", "{0757FD7E-F838-42BC-BABA-628EBA970683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarea9 Form-Vacunate.Shared", "Shared\Tarea9 Form-Vacunate.Shared.csproj", "{0757FD7E-F838-42BC-BABA-628EBA970683}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
