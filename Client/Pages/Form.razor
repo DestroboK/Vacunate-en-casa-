@@ -1,0 +1,18 @@
+﻿@page "/form" 
+
+<h3>Formulario de vacunación a domicilio</h3>
+<EditForm Model="@nuevoFormulario" OnValidSubmit="Enviar">
+    <div class="form-group">
+        <label for="cedu">Cedula</label>
+        <InputText id="cedu" @bind-Value="nuevoFormulario.cedula" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</EditForm>
+@code {
+    Tarea9_Form_Vacunate.Shared.Solicitud nuevoFormulario = new Tarea9_Form_Vacunate.Shared.Solicitud();
+
+    void Enviar()
+    {
+
+    }
+}

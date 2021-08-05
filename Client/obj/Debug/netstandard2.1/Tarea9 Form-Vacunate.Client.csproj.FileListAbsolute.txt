@@ -207,9 +207,7 @@ C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\bin\Debug\netstandard2.1\w
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\bin\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.pdb
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Client.csproj.AssemblyReference.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Client.csproj.CoreCompileInputs.cache
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Client.RazorComponent.output.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\RazorDeclaration\Tarea9_Form-Vacunate.Client.dll
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Tarea9_Form-Vacunate.Client.TagHelpers.input.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Tarea9_Form-Vacunate.Client.TagHelpers.output.cache
@@ -223,7 +221,6 @@ C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\R
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\5_PAEOiQOZW4-D_hioIol7EDabafEKXvQxUI7pbm0zY=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -261,7 +258,6 @@ C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\i
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=.hash
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\9IlDBIJw48Ireil5gu7nt3XfsTCA2L_5EMox3ug_0Sk=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\Uf1GmMwsvPJxnmQY4q-9oLZtqC-IDOdSjdR1ac-uCwU=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\_ndfoM_E5BiPTTXbGE3QqnnebiwNAoBsTciG_3_cHUA=.hash
@@ -288,14 +284,11 @@ C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\i
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\XMbWzSbWz38yBXaSo6e8kAgk2oM6rEjZoZYJBkMR37Q=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\sVpey8QNxCwDT7s5Sc0-6avOTeLFpeaId-YwIP7NLME=.hash
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\9X1NrEkv5qbgYZChAcBzSYkN_2V3Pw4vz8k1_6ztg_o=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\tmk-CxIdWxPLJNwlFggX64iza67w1znepNBNrMho7KA=.hash
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Tarea9_Form-Vacunate.Client.dll.gz
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -442,7 +435,15 @@ C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\c
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\staticwebassets\Tarea9_Form-Vacunate.Client.StaticWebAssets.Manifest.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\staticwebassets\Tarea9_Form-Vacunate.Client.StaticWebAssets.xml
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\scopedcss\bundle\Tarea9_Form-Vacunate.Client.styles.css
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Client.csproj.CopyComplete
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Tarea9_Form-Vacunate.Client.dll
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Tarea9_Form-Vacunate.Client.pdb
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Client.csprojAssemblyReference.cache
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Form.razor.g.cs
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\Razor\Pages\Form.razor.g.cs
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\7l1lql3ysWJ3rqomk7AED0LEeOC76St3cbxitHMQcIE=.hash
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\Su9XMBZC1ASGX9JBK7vdwmkZEZdkBoFnRGBloszdBV4=.hash
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\s-Q3EIRDSBtdDqNWOqpVUdCphpUQdi64EFnMDryXLF0=.hash
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\EZOR7dGygHto7UOpnjvQMToM1cL2FeUKA6jUX__r4SA=.hash
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Client\obj\Debug\netstandard2.1\integrity\fSGobqgupoz0q_UXnUl_2fH2E6ormBmIe6Tes4p2CNU=.hash

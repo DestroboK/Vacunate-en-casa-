@@ -233,14 +233,14 @@ C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\bin\Debug\netcoreapp3.1\Ta
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\bin\Debug\netcoreapp3.1\Tarea9_Form-Vacunate.Server.Views.pdb
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\bin\Debug\netcoreapp3.1\Tarea9_Form-Vacunate.Client.pdb
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\bin\Debug\netcoreapp3.1\Tarea9 Form-Vacunate.Shared.pdb
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\Tarea9 Form-Vacunate.Server.csproj.AssemblyReference.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\Tarea9 Form-Vacunate.Server.csproj.CoreCompileInputs.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\Tarea9_Form-Vacunate.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\staticwebassets\Tarea9_Form-Vacunate.Server.StaticWebAssets.Manifest.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\staticwebassets\Tarea9_Form-Vacunate.Server.StaticWebAssets.xml
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tarea9_Form-Vacunate.Server.styles.css
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\Tarea9_Form-Vacunate.Server.Views.pdb
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\Tarea9 Form-Vacunate.Server.csproj.CopyComplete
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\Tarea9_Form-Vacunate.Server.dll
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\Tarea9_Form-Vacunate.Server.pdb
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\Tarea9 Form-Vacunate.Server.genruntimeconfig.cache
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Server\obj\Debug\netcoreapp3.1\Tarea9 Form-Vacunate.Server.csprojAssemblyReference.cache

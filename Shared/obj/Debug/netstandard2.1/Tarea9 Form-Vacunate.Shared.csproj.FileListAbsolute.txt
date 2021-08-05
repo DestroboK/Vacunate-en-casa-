@@ -3,7 +3,6 @@ C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Shared\bin\Debug\netstandard2.1\T
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.AssemblyInfoInputs.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.AssemblyInfo.cs
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Shared\bin\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.pdb
-C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.csproj.AssemblyReference.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.dll
 C:\Users\Kelvin\Downloads\Tarea9 Form-Vacunate\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.pdb
