@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
+using Tarea9_Form_Vacunate.Server.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Tarea9_Form_Vacunate.Server
 {
@@ -22,7 +24,7 @@ namespace Tarea9_Form_Vacunate.Server
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddDbContext<VacunateEnCasaContext>(x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
             services.AddControllersWithViews();
             services.AddRazorPages();
         }
