@@ -91,14 +91,17 @@ using Tarea9_Form_Vacunate.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 69 "C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\Pages\Registrar.razor"
+#line 73 "C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\Pages\Registrar.razor"
        
+   
     Tarea9_Form_Vacunate.Shared.Solicitud GetSolicitud = new Tarea9_Form_Vacunate.Shared.Solicitud();
 
     void CreateNewSolicitud()
     {
         Console.WriteLine("Mmmmmmmmmmmmmmmmmmmmmmm");
     }
+
+
 
 #line default
 #line hidden

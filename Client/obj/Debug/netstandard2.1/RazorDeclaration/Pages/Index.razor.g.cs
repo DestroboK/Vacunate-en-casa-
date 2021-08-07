@@ -82,6 +82,13 @@ using Tarea9_Form_Vacunate.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\Pages\Index.razor"
+using System.Net.Mail;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -90,6 +97,40 @@ using Tarea9_Form_Vacunate.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 11 "C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\Pages\Index.razor"
+      
+    private string Message { get; set; } = "";
+    private void SendMail()
+    {
+        try
+        {
+            using (MailMessage mail = new MailMessage())
+            {
+                mail.From = new MailAddress("bryanlorenzo18mcfa5a@gmail.com");
+                mail.To.Add("dariellorenzo89@gmail.com");
+                mail.Subject = "Sending Mail Testing (Blazor)";
+                mail.Body = "<h1>This is mail body</h1>";
+                mail.IsBodyHtml = true;
+
+                using (SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587))
+                {
+                    smtp.Credentials = new System.Net.NetworkCredential("bryanlorenzo18mcfa5a@gmail.com", "Rain1234");
+                    smtp.EnableSsl = true;
+                    smtp.Send(mail);
+                    Message = "Mail Sent";
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Message = ex.Message;
+        }
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\xFc2R1lAsoJDzcc7HIrlY3ibmx5W5WMZ5SpB26iHVO8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jeNsHmTLlrbVe3r_KeC5BTJpSYyT0Yafy9nAD0kad9M=.hash",
       "Source": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tarea9_Form-Vacunate.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tarea9_Form-Vacunate.Client.dll.gz"
     },
@@ -326,7 +326,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\WpdbDTc1x7Dc0wNCEPh0c_-uodo2p9TuvPvC_O7Ij2Y=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\AmysIr7dTsUWxtDmJTLFk8Yi2awtjABwD3gkR-zZPS0=.hash",
       "Source": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tarea9_Form-Vacunate.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tarea9_Form-Vacunate.Client.pdb.gz"
     },
@@ -356,7 +356,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\p-z075a63VOMV8nrq-1oPpkctYs5usFUkQe0xBbRxe8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\G4TKTbAfqJeoXAmG1KG3HnYEko6I_sggV0oqPsYVAVA=.hash",
       "Source": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

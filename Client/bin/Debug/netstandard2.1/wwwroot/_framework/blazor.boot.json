@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Tarea9_Form-Vacunate.Client.dll": "sha256-xFc2R1lAsoJDzcc7HIrlY3ibmx5W5WMZ5SpB26iHVO8=",
+      "Tarea9_Form-Vacunate.Client.dll": "sha256-jeNsHmTLlrbVe3r+KeC5BTJpSYyT0Yafy9nAD0kad9M=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -73,7 +73,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Tarea9_Form-Vacunate.Client.pdb": "sha256-WpdbDTc1x7Dc0wNCEPh0c+\/uodo2p9TuvPvC+O7Ij2Y=",
+      "Tarea9_Form-Vacunate.Client.pdb": "sha256-AmysIr7dTsUWxtDmJTLFk8Yi2awtjABwD3gkR\/zZPS0=",
       "Tarea9 Form-Vacunate.Shared.pdb": "sha256-2a3TkBT3mwoFJJE5PwgLrAU5w+x9fGYGbFCJcwiK8g8="
     },
     "runtime": {

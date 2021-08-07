@@ -1,4 +1,6 @@
 ﻿@page "/registrar"
+
+
 <h3>Registrar</h3>
 
 <EditForm Model="@GetSolicitud" OnValidSubmit="CreateNewSolicitud">
@@ -53,6 +55,7 @@
         <InputText id="justificacion" @bind-Value="GetSolicitud.justificacion" class="form-control" />
     </div>
     <button type="submit" class="btn btn-primary">Crear</button>
+
     <ValidationSummary />
 </EditForm>
 
@@ -66,12 +69,15 @@
 
 
 
+
 @code {
+   
     Tarea9_Form_Vacunate.Shared.Solicitud GetSolicitud = new Tarea9_Form_Vacunate.Shared.Solicitud();
 
     void CreateNewSolicitud()
     {
         Console.WriteLine("Mmmmmmmmmmmmmmmmmmmmmmm");
     }
-   
+
+
 }

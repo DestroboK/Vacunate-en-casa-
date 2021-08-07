@@ -1,7 +1,39 @@
 ﻿@page "/"
+@using System.Net.Mail;
 
 <h1>Hello, world!</h1>
 
-Welcome to your new app.
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+<button class="btn btn-primary" @onclick="SendMail">Enviar correo</button>
+<br />
+<span style="font-weight:bold;font-size:28px;color:#c00;">@Message</span>
+
+@code{
+    private string Message { get; set; } = "";
+    private void SendMail()
+    {
+        try
+        {
+            using (MailMessage mail = new MailMessage())
+            {
+                mail.From = new MailAddress("bryanlorenzo18mcfa5a@gmail.com");
+                mail.To.Add("dariellorenzo89@gmail.com");
+                mail.Subject = "Sending Mail Testing (Blazor)";
+                mail.Body = "<h1>This is mail body</h1>";
+                mail.IsBodyHtml = true;
+
+                using (SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587))
+                {
+                    smtp.Credentials = new System.Net.NetworkCredential("bryanlorenzo18mcfa5a@gmail.com", "Rain1234");
+                    smtp.EnableSsl = true;
+                    smtp.Send(mail);
+                    Message = "Mail Sent";
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Message = ex.Message;
+        }
+    }
+}
