@@ -82,8 +82,8 @@ using Tarea9_Form_Vacunate.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/form")]
-    public partial class Form : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/registrar")]
+    public partial class Registrar : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -91,13 +91,13 @@ using Tarea9_Form_Vacunate.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 11 "C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\Pages\Form.razor"
+#line 69 "C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\Pages\Registrar.razor"
        
-    Tarea9_Form_Vacunate.Shared.Solicitud nuevoFormulario = new Tarea9_Form_Vacunate.Shared.Solicitud();
+    Tarea9_Form_Vacunate.Shared.Solicitud GetSolicitud = new Tarea9_Form_Vacunate.Shared.Solicitud();
 
-    void Enviar()
+    void CreateNewSolicitud()
     {
-
+        Console.WriteLine("Mmmmmmmmmmmmmmmmmmmmmmm");
     }
 
 #line default

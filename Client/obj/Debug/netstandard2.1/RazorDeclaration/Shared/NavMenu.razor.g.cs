@@ -75,6 +75,13 @@ using Tarea9_Form_Vacunate.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\_Imports.razor"
+using Tarea9_Form_Vacunate.Shared;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -83,7 +90,7 @@ using Tarea9_Form_Vacunate.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\Shared\NavMenu.razor"
+#line 33 "C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

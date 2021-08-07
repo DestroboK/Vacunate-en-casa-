@@ -1,0 +1,77 @@
+﻿@page "/registrar"
+<h3>Registrar</h3>
+
+<EditForm Model="@GetSolicitud" OnValidSubmit="CreateNewSolicitud">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label for="cedula">Cedula</label>
+        <InputText id="cedula" @bind-Value="GetSolicitud.cedula" class="form-control" />
+        <ValidationMessage For="@(() => GetSolicitud.cedula)" />
+    </div>
+
+    <div class="form-group">
+        <label for="nombre">Nombre</label>
+        <InputText id="nombre" @bind-Value="GetSolicitud.nombre" class="form-control" />
+        <ValidationMessage For="@(() => GetSolicitud.nombre)" />
+    </div>
+
+    <div class="form-group">
+        <label for="apellido">Apellido</label>
+        <InputText id="apellido" @bind-Value="GetSolicitud.apellido" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="telefono">Telefono</label>
+        <InputText id="telefono" @bind-Value="GetSolicitud.telefono" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email</label>
+        <InputText id="email" @bind-Value="GetSolicitud.email" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="tipo_sangre">Tipo_sangre</label>
+        <InputNumber id="tipo_sangre" @bind-Value="GetSolicitud.tipo_sangre" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="provinia">Provinvia</label>
+        <InputNumber id="provincia" @bind-Value="GetSolicitud.provincia" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="direccion">Direccion</label>
+        <InputText id="direccion" @bind-Value="GetSolicitud.direccion" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="covid">Covid</label>
+        <InputNumber id="covid" @bind-Value="GetSolicitud.covid" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="justificacion">Justificacion</label>
+        <InputText id="justificacion" @bind-Value="GetSolicitud.justificacion" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Crear</button>
+    <ValidationSummary />
+</EditForm>
+
+
+
+
+
+
+
+
+
+
+
+@code {
+    Tarea9_Form_Vacunate.Shared.Solicitud GetSolicitud = new Tarea9_Form_Vacunate.Shared.Solicitud();
+
+    void CreateNewSolicitud()
+    {
+        Console.WriteLine("Mmmmmmmmmmmmmmmmmmmmmmm");
+    }
+   
+}

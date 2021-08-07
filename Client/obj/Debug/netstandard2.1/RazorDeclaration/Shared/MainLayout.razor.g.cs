@@ -75,6 +75,13 @@ using Tarea9_Form_Vacunate.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "C:\Users\Administrador\Desktop\Vacunate-en-casa-\Client\_Imports.razor"
+using Tarea9_Form_Vacunate.Shared;
+
+#line default
+#line hidden
+#nullable disable
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998

@@ -15,5 +15,7 @@ namespace Tarea9_Form_Vacunate.Server.Data
         }
 
         public DbSet<Solicitud> Solicitudes { get; set; }
+
+       
     }
 }
