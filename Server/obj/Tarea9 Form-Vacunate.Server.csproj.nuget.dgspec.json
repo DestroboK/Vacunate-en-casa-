@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Server\\Tarea9 Form-Vacunate.Server.csproj": {}
+    "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Server\\Tarea9 Form-Vacunate.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj": {
+    "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj",
         "projectName": "Tarea9_Form-Vacunate.Client",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\obj\\",
+        "projectPath": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj",
+        "packagesPath": "C:\\Users\\Kelvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Kelvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj"
+              "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj": {
+                "projectPath": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj"
               }
             }
           }
@@ -102,25 +98,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Server\\Tarea9 Form-Vacunate.Server.csproj": {
+    "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Server\\Tarea9 Form-Vacunate.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Server\\Tarea9 Form-Vacunate.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Server\\Tarea9 Form-Vacunate.Server.csproj",
         "projectName": "Tarea9_Form-Vacunate.Server",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Server\\Tarea9 Form-Vacunate.Server.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Server\\obj\\",
+        "projectPath": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Server\\Tarea9 Form-Vacunate.Server.csproj",
+        "packagesPath": "C:\\Users\\Kelvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Server\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Kelvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,11 +126,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj"
+              "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj": {
+                "projectPath": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Client\\Tarea9 Form-Vacunate.Client.csproj"
               },
-              "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj"
+              "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj": {
+                "projectPath": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj"
               }
             }
           }
@@ -196,25 +188,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj": {
+    "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj",
         "projectName": "Tarea9 Form-Vacunate.Shared",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\Vacunate-en-casa-\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Shared\\Tarea9 Form-Vacunate.Shared.csproj",
+        "packagesPath": "C:\\Users\\Kelvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelvin\\Desktop\\Tarea9\\Vacunate-en-casa-\\Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Kelvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -276,7 +264,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

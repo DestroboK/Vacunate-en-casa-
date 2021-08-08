@@ -15,3 +15,12 @@ C:\Users\Administrador\Desktop\Vacunate-en-casa-\Shared\obj\Debug\netstandard2.1
 C:\Users\Administrador\Desktop\Vacunate-en-casa-\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Desktop\Vacunate-en-casa-\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.dll
 C:\Users\Administrador\Desktop\Vacunate-en-casa-\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.pdb
+C:\Users\Kelvin\Desktop\Tarea9\Vacunate-en-casa-\Shared\bin\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.deps.json
+C:\Users\Kelvin\Desktop\Tarea9\Vacunate-en-casa-\Shared\bin\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.dll
+C:\Users\Kelvin\Desktop\Tarea9\Vacunate-en-casa-\Shared\bin\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.pdb
+C:\Users\Kelvin\Desktop\Tarea9\Vacunate-en-casa-\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Tarea9\Vacunate-en-casa-\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Tarea9\Vacunate-en-casa-\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Tarea9\Vacunate-en-casa-\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.dll
+C:\Users\Kelvin\Desktop\Tarea9\Vacunate-en-casa-\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.pdb
+C:\Users\Kelvin\Desktop\Tarea9\Vacunate-en-casa-\Shared\obj\Debug\netstandard2.1\Tarea9 Form-Vacunate.Shared.csproj.AssemblyReference.cache

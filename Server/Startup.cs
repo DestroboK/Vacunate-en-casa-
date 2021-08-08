@@ -13,9 +13,10 @@ namespace Tarea9_Form_Vacunate.Server
 {
     public class Startup
     {
+        public readonly IConfiguration configuration;
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;
+            this.configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
@@ -24,7 +25,7 @@ namespace Tarea9_Form_Vacunate.Server
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<VacunateEnCasaContext>(x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<VacunateEnCasaContext>(options => options.UseSqlite(configuration.GetConnectionString("DefaultConnection")));
             services.AddControllersWithViews();
             services.AddRazorPages();
         }
@@ -57,5 +58,6 @@ namespace Tarea9_Form_Vacunate.Server
                 endpoints.MapFallbackToFile("index.html");
             });
         }
+
     }
 }
